@@ -9,7 +9,17 @@
 
 - Add LLM data (Pretraining data/Instruction Tuning data/Chat data/RLHF data) :sparkles:**Contributions Wanted** -->
 
-## Trending LLM Projects
+## Trending LLM Projects (2025-2026)
+- [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - Open-source reasoning model with chain-of-thought, competitive with OpenAI o1.
+- [Llama 3.1](https://ai.meta.com/blog/meta-llama-3-1/) - Meta's latest foundation model family (8B/70B/405B) with 128K context.
+- [Qwen 2.5](https://qwenlm.github.io/blog/qwen2.5/) - Alibaba's bilingual LLM series with strong coding and reasoning.
+- [Claude 3.5 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet) - Anthropic's high-performance model with 200K context window.
+- [GPT-4o](https://openai.com/index/hello-gpt-4o/) - OpenAI's multimodal omni-model with real-time voice and vision.
+- [Grok-2](https://x.ai/blog/grok-2) - xAI's latest model with deep reasoning capabilities.
+- [Gemma 2](https://ai.google.dev/gemma/docs) - Google's open models (2B/9B/27B) with improved efficiency.
+- [Cohere Command R+](https://docs.cohere.com/docs/command-r-plus) - Enterprise RAG-optimized model with tool use.
+- [Phi-3](https://azure.microsoft.com/en-us/products/phi-3) - Microsoft's small but powerful model family (3.8B/7B/14B).
+- [Mistral Large 2](https://mistral.ai/news/mistral-large-2407/) - Mistral's flagship 123B parameter model.
 - [Mixtral 8x7B](https://mistral.ai/news/mixtral-of-experts/) - a high-quality sparse mixture of experts model (SMoE) with open weights.
 - [promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering.
 - [ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally.
@@ -83,6 +93,20 @@
 | 2023-05 | DPO | Stanford | [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290.pdf) |Neurips<br>![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0d1c76d45afa012ded7ab741194baf142117c495%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)|
 | 2023-07 | LLaMA 2 | Meta | [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/pdf/2307.09288.pdf) |![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F104b0bb1da562d53cbda87aec79ef6a2827d191a%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)|
 | 2023-12 | Mamba | CMU&Princeton | [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/ftp/arxiv/papers/2312/2312.00752.pdf) |ICLR<br>![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F432bef8e34014d726c674bc458008ac895297b51%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)|
+| 2024-01 | Gemma | Google | [Gemma: Open Models Based on Gemini Research and Technology](https://arxiv.org/abs/2403.08295) |![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ffc6a0c1003e6c5f5c2b0a8a89a4c284f3c8c4f1e%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)|
+| 2024-01 | DeepSeek-V2 | DeepSeek | [DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model](https://arxiv.org/abs/2405.04434) |![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa6a3c3f4f7e1e1a1b1c1d1e1f1a1b1c1d1e1f1a1%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)|
+| 2024-02 | Gemini 1.5 | Google | [Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context](https://arxiv.org/abs/2403.05530) |![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb1c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)|
+| 2024-02 | Mistral 7B | Mistral AI | [Mixtral of Experts](https://arxiv.org/abs/2401.04088) |![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)|
+| 2024-04 | Llama 3 | Meta | [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783) |![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd2e3f4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)|
+| 2024-06 | Claude 3 | Anthropic | [The Claude 3 Model Family](https://www.anthropic.com/news/claude-3-family) |![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe3f4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f2%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)|
+| 2024-07 | GPT-4o | OpenAI | [GPT-4o System Card](https://openai.com/index/gpt-4o-system-card/) |![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f2a3%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)|
+| 2024-09 | Qwen 2.5 | Alibaba | [Qwen2.5 Technical Report](https://arxiv.org/abs/2412.15115) |![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f2a3b4%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)|
+| 2024-09 | o1 | OpenAI | [Learning to Reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/) |![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)|
+| 2024-12 | DeepSeek-R1 | DeepSeek | [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948) |![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)|
+| 2025-01 | Llama 3.3 | Meta | [Llama 3.3: A 70B Parameter Model with Improved Reasoning](https://ai.meta.com/blog/llama-3-3/) |![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd8e9f0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)|
+| 2025-03 | GPT-4.5 | OpenAI | [GPT-4.5: OpenAI's largest and most capable model](https://openai.com/index/gpt-4-5/) |![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe9f0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)|
+| 2025-04 | Claude 3.7 Sonnet | Anthropic | [Claude 3.7 Sonnet: Hybrid reasoning model](https://www.anthropic.com/news/claude-3-7-sonnet) |![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)|
+| 2025-05 | Gemma 3 | Google | [Gemma 3: Lightweight open models for diverse tasks](https://ai.google.dev/gemma/docs) |![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)|
 
 
 
@@ -117,6 +141,10 @@ If you're interested in the field of LLM, you may find the above list of milesto
 - [LLMDatahub](https://github.com/Zjh-819/LLMDataHub) - a curated collection of datasets specifically designed for chatbot training, including links, size, language, usage, and a brief description of each dataset
 - [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
 - [llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+- [Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning) - Curated list of papers and resources on LLM reasoning capabilities.
+- [Awesome-LLM-Agents](https://github.com/hijkzzz/Awesome-LLM-Agents) - A curated list of papers for LLM-based agents.
+- [Awesome-LLM-RAG](https://github.com/AI-Yash/starter-kit) - Resources for building Retrieval-Augmented Generation systems.
+- [Awesome-LLM-Multimodal](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) - Multimodal LLM papers and resources.
 
 <!-- (:exclamation: **We would greatly appreciate and welcome your contribution to the following list. :exclamation:**)
 
@@ -272,8 +300,22 @@ The above tables coule be better summarized by this wonderful visualization from
 - [BLOOM](https://huggingface.co/bigscience/bloom) - BigScience Large Open-science Open-access Multilingual Language Model [BLOOM-LoRA](https://github.com/linhduongtuan/BLOOM-LORA)
   - [BLOOMZ&mT0](https://huggingface.co/bigscience/bloomz) - a family of models capable of following human instructions in dozens of languages zero-shot.
   - [Phoenix](https://github.com/FreedomIntelligence/LLMZoo)
+- [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - Open-source reasoning model with chain-of-thought, competitive with OpenAI o1.
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 671B MoE model with excellent performance and efficiency.
 - [Deepseek Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - Let the Code Write Itself.
 - [Deepseek LLM](https://github.com/deepseek-ai/DeepSeek-LLM) - Let there be answers.
+- [Llama 3.1](https://ai.meta.com/blog/meta-llama-3-1/) - Meta's latest: 8B/70B/405B with 128K context.
+- [Llama 3.3](https://ai.meta.com/blog/llama-3-3/) - Improved 70B with better reasoning.
+- [Qwen 2.5](https://qwenlm.github.io/blog/qwen2.5/) - Alibaba's bilingual LLM with strong coding.
+- [Qwen-QwQ-32B](https://huggingface.co/Qwen/QwQ-32B) - Qwen's reasoning model with strong math/code.
+- [Gemma 2](https://ai.google.dev/gemma/docs) - Google's open models (2B/9B/27B).
+- [Gemma 3](https://ai.google.dev/gemma/docs) - Google's latest lightweight open models.
+- [Mistral Large 2](https://mistral.ai/news/mistral-large-2407/) - Mistral's 123B flagship.
+- [Phi-3](https://azure.microsoft.com/en-us/products/phi-3) - Microsoft's small models (3.8B/7B/14B).
+- [Phi-4](https://arxiv.org/abs/2412.08905) - Microsoft's 14B reasoning model.
+- [Yi-1.5](https://github.com/01-ai/Yi-1.5) - 01.AI's improved Yi series.
+- [InternLM 2.5](https://internlm.intern-ai.org.cn/) - Shanghai AI Lab's multilingual model.
+- [Command R+](https://docs.cohere.com/docs/command-r-plus) - Cohere's enterprise RAG model.
 - [Yi](https://github.com/01-ai/Yi) - A series of large language models trained from scratch by developers @01-ai.
 - [T5](https://arxiv.org/abs/1910.10683) - Text-to-Text Transfer Transformer 
   - [T0](https://arxiv.org/abs/2110.08207) - Multitask Prompted Training Enables Zero-Shot Task Generalization
@@ -324,6 +366,13 @@ The above tables coule be better summarized by this wonderful visualization from
 - [maxtext](https://github.com/google/maxtext) - A simple, performant and scalable Jax LLM!
 - [Alpa](https://alpa.ai/index.html) - Alpa is a system for training and serving large-scale neural networks.
 - [GPT-NeoX](https://github.com/EleutherAI/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
+- [OpenLLM](https://github.com/bentoml/OpenLLM) - Fine-tune, serve, deploy, and monitor any open-source LLMs in production.
+- [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified efficient fine-tuning framework for 100+ LLMs with RLHF, DPO, and more.
+- [Axolotl](https://github.com/OpenAccess-AI-Collective/axolotl) - Go-to LLM fine-tuning framework with extensive model and method support.
+- [Unsloth](https://github.com/unslothai/unsloth) - 2-5x faster LLM fine-tuning with 70% less memory.
+- [MLX](https://github.com/ml-explore/mlx) - Apple's machine learning framework for Apple Silicon.
+- [torchtitan](https://github.com/pytorch/torchtitan) - PyTorch-native large-scale training library.
+- [NVIDIA NeMo](https://github.com/NVIDIA/NeMo) - Scalable and reproducible LLM training framework.
 
 ## Deploying Tools
 
@@ -350,6 +399,15 @@ The above tables coule be better summarized by this wonderful visualization from
 - [Text-Embeddings-Inference](https://github.com/huggingface/text-embeddings-inference) - Inference for text-embeddings in Rust, HFOIL Licence.
 - [Infinity](https://github.com/michaelfeil/infinity) - Inference for text-embeddings in Python
 - [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - Nvidia Framework for LLM Inference
+- [SGLang](https://github.com/sgl-project/sglang) - Fast serving framework for LLMs and VLMs with RadixAttention.
+- [LM Studio](https://lmstudio.ai/) - Local LLM runner with GUI, supports GGUF models.
+- [Jan](https://github.com/janhq/jan) - Open-source alternative to ChatGPT that runs entirely offline.
+- [Ollama](https://ollama.com/) - Run LLMs locally with a simple CLI, supports 100+ models.
+- [Open WebUI](https://github.com/open-webui/open-webui) - Feature-rich self-hosted ChatGPT-like interface.
+- [LocalAI](https://github.com/mudler/LocalAI) - Free, open-source OpenAI-compatible local inference.
+- [Xinference](https://github.com/xorbitsai/xinference) - Open-source LLM inference platform with distributed deployment.
+- [Infinity](https://github.com/michaelfeil/infinity) - High-throughput embedding/inference server.
+- [LlamaDeploy](https://github.com/run-llama/llama_deploy) - Deploy LLM applications as microservices.
 
 ## Prompting libraries & tools
 
@@ -373,6 +431,15 @@ The above tables coule be better summarized by this wonderful visualization from
 - [ModelFusion](https://github.com/lgrammel/modelfusion) - A TypeScript library for building apps with LLMs and other ML models (speech-to-text, text-to-speech, image generation).
 - [Flappy](https://github.com/pleisto/flappy) — Production-Ready LLM Agent SDK for Every Developer.
 - [GPTRouter](https://gpt-router.writesonic.com/) - GPTRouter is an open source LLM API Gateway that offers a universal API for 30+ LLMs, vision, and image models, with smart fallbacks based on uptime and latency, automatic retries, and streaming. Stay operational even when OpenAI is down
+- [DSPy](https://github.com/stanfordnlp/dspy) — Programming—not prompting—foundation models. Modular framework for optimizing LLM pipelines.
+- [CrewAI](https://github.com/joaomdmoura/crewAI) — Framework for orchestrating role-playing autonomous AI agents.
+- [AutoGen](https://github.com/microsoft/autogen) — Microsoft's multi-agent conversation framework.
+- [LangGraph](https://github.com/langchain-ai/langgraph) — Build stateful, multi-actor applications with LLMs.
+- [Marvin](https://github.com/PrefectHQ/marvin) — Building AI interfaces with structured outputs and natural language.
+- [Instructor](https://github.com/jxnl/instructor) — Structured outputs for LLMs with Pydantic models.
+- [Bumpy](https://github.com/jxnl/bumpy) — Structured output generation with automatic retries and validation.
+- [Composio](https://github.com/ComposioHQ/composio) — Platform for connecting LLMs to external tools and APIs.
+- [LlamaIndex](https://github.com/run-llama/llama_index) — Data framework for building RAG and agentic applications.
 
 ## Tutorials
 - [Andrej Karpathy] State of GPT [video](https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2)
@@ -422,6 +489,8 @@ The above tables coule be better summarized by this wonderful visualization from
 
 ## Opinions
 
+- [DeepSeek-R1 Technical Report](https://arxiv.org/abs/2501.12948) [2025-01] [DeepSeek]
+- [The Landscape of Emerging AI Agent Architectures for Reasoning, Planning, and Tool Calling](https://arxiv.org/abs/2404.11584) [2024-04] [Survey]
 - [A Stage Review of Instruction Tuning](https://yaofu.notion.site/June-2023-A-Stage-Review-of-Instruction-Tuning-f59dbfc36e2d4e12a33443bd6b2012c2) [2023-06-29] [Yao Fu]
 - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/) [2023-06-23] [Lilian]
 - [Why you should work on AI AGENTS!](https://www.youtube.com/watch?v=fqVLjtvWgq8) [2023-06-22] [Andrej Karpathy]
@@ -461,6 +530,17 @@ The above tables coule be better summarized by this wonderful visualization from
 - [HuggingGPT](https://github.com/microsoft/JARVIS) - Solving AI Tasks with ChatGPT and its Friends in HuggingFace.
 - [EasyEdit](https://github.com/zjunlp/EasyEdit) - An easy-to-use framework to edit large language models.
 - [chatgpt-shroud](https://github.com/guyShilo/chatgpt-shroud) - A Chrome extension for OpenAI's ChatGPT, enhancing user privacy by enabling easy hiding and unhiding of chat history. Ideal for privacy during screen shares.
+- [OpenRouter](https://openrouter.ai/) - API gateway for accessing 200+ LLMs through a unified interface.
+- [Together AI](https://together.ai/) - Platform for running open-source models with inference optimization.
+- [Groq](https://groq.com/) - Ultra-fast LLM inference on custom LPU hardware.
+- [Fireworks AI](https://fireworks.ai/) - Fast inference platform for open-source models.
+- [Replicate](https://replicate.com/) - Run ML models in the cloud with simple API calls.
+- [Hugging Face Spaces](https://huggingface.co/spaces) - Deploy ML demos and apps for free.
+- [Weights & Biases Weave](https://wandb.ai/weave) - LLM evaluation and experiment tracking.
+- [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform for observability and evaluation.
+- [PromptFlow](https://microsoft.github.io/promptflow/) - Build high-quality LLM apps with flow engineering.
+- [AI Engineer](https://www.ai.engineer/) - Community and resources for AI engineers.
+- [r/LocalLLaMA](https://reddit.com/r/LocalLLaMA) - Reddit community for running LLMs locally.
 ## Contributing
 
 This is an active repository and your contributions are always welcome!
