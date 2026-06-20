@@ -1,2 +1,7 @@
 .DS_Store
 .history
+
+# macOS and career assets
+CAREER_IMPACT.md
+._pack-*.idx
+._*
